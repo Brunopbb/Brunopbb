@@ -2,9 +2,9 @@
 
 ## Olá, me chamo Bruno
 
-##### Estudo Engenharia Elétrica e estou sempre buscando aprender tecnologias relacionadas a desenvolvimento de software. 
-##### Já cursei Ciência da Computação e tenho grande apreço pela área onde atualmente busco uma oportunidade.
-##### Atualmente busco aprofundar meus conhecimentos em **Java**, **Spring Boot** e **banco de dados**.
+#### Estudo Engenharia Elétrica e estou sempre buscando aprender tecnologias relacionadas a desenvolvimento de software. 
+#### Já cursei Ciência da Computação e tenho grande apreço pela área onde atualmente busco uma oportunidade.
+#### Atualmente busco aprofundar meus conhecimentos em **Java**, **Spring Boot** e **banco de dados**.
 
 # Tecnologias <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" /> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" /> 
 
