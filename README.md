@@ -20,6 +20,6 @@
  # Estatísticas <img src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" text="sdadasd" /> 
  
  
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunopbb&show_icons=true&theme=dracula)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunopbb&layout=compact&theme=dracula&card_width=450&langs_count=7)](https://github.com/Brunopbb/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunopbb&show_icons=true&theme=dracula)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunopbb&layout=compact&theme=dracula&card_width=450&langs_count=8)](https://github.com/Brunopbb/github-readme-stats)
 
 
