@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Bruno
 
-#### Estudo Engenharia da computação e estou sempre buscando aprender tecnologias relacionadas a desenvolvimento de software e sistemas embarcados. 
+#### Estudo Engenharia Elétrica (UFCG) e estou sempre buscando aprender tecnologias relacionadas a desenvolvimento de software e sistemas embarcados. 
 
 # Tecnologias <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" /> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" /> 
 
